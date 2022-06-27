@@ -1,3 +1,9 @@
-export const add = (a, b) => a + b;
+export default function(){
+    console.log('99112233');
+    console.log('99112233');
+    console.log('99112233');
+}
 
-export const multi = (a, b) => a * b;
+export const cc = ()=>{
+    alert('tiandadida 9999888')
+}
